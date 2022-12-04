@@ -1,5 +1,5 @@
 # Incident Response Templates
 
-This is a project that can help structure the incident response actions including reporting incidents and documenting the investigation evidences
+This is a collection of sample templates and example documents of the incident response plan that can help cyber security management structure the incident response program
 
-## See the IR related files in this folder
+### See the IR related files in this folder
